@@ -1,0 +1,54 @@
+ #container-header
+{
+    height: 20%;
+    
+} 
+/* .container
+{
+    height: 20%;
+    margin-top: 2%;
+} */
+
+ #mainheader
+{
+    /* position: relative; */
+    height:50px;
+    width: 95%;
+    position: absolute;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    
+} 
+
+/* .row
+{
+    position: relative;
+    height:100%;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+     background: yellow; 
+    text-align: center;
+
+} */
+
+#sub-header
+{
+   
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    border-right: 0.5px solid white;
+    /* border-radius: 5px; */
+    /* background-color: pink; */
+    vertical-align: middle;
+    line-height: 45px;
+    color: white;
+    font-family: Trattatello fantasy;
+    font-style: italic;
+    font-size: 25px;
+}

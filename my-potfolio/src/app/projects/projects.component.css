@@ -1,0 +1,43 @@
+.container
+{
+  position: relative;
+  height: 85%;
+  margin-top: 2%;
+  margin-left: auto;
+  width: 85%;
+  margin-right: auto;
+  /* background-color: pink; */
+  padding-top: 3%;
+}
+
+.image1
+{
+  height: 50%;
+  width: 26%;
+  border-radius: 50%;
+  margin-left: 15%;
+  border-style: double;
+  border-color: black;
+  border-width: 2px;
+
+}
+
+.row
+{
+  color: white;
+  font-family: Courier New,cursive;
+  font-size: 20px;
+}
+
+.ssp
+{
+  margin-top: 3%;
+  margin-left: 15%;
+
+}
+
+.triptage
+{
+  margin-top: 3%;
+  margin-left: 25%;
+}

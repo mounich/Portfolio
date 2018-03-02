@@ -1,0 +1,73 @@
+.image
+{
+    height:45em; 
+    background-size:cover; width:auto;
+    background-image:url('./background-image/computer.jpg') ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position:50% 50%;
+    /* opacity: 10px; */
+    margin-top: 0%;
+    
+}
+    
+#container-header
+{
+    height: 10%;
+} 
+#mainheader
+{
+    margin-top: 2%;
+    height:50px;
+    width: 95%;
+    position: absolute;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    /* border: 1px solid #434447; */
+    /* border-radius: 12px; */
+    /* background-color: gray; */
+    /* opacity: 20px; */
+    
+}
+#sub-header
+{  
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    /* border-right: 0.5px solid white; */
+    vertical-align: middle;
+    line-height: 45px;
+    color: white;
+    font-family: Trattatello fantasy;
+    font-weight: bold;
+    font-style: italic;
+    
+    font-size: 25px;
+}
+#content-container
+{
+  position: relative;
+  height: 88%;
+  margin-top: 0%;
+  /* background-color: pink; */
+}
+.col-sm:hover
+{
+    opacity: 0.5;
+    /* color: gold; */
+}
+
+/* .col-sm:hover{
+    color:#c3a343;
+    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(transparent, transparent),
+    url(https://images.designtrends.com/wp-content/uploads/2015/11/10043825/Beautiful-Gold-Glitter-Background.jpg) repeat;
+    background: -o-linear-gradient(transparent, transparent);
+    -webkit-background-clip: text;
+} */
